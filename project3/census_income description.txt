@@ -1,0 +1,25 @@
+Extraction of 1994 census database. Predict whether income exceeds $50k/yr based on census data.
+
+age = age in years
+
+workclass = A categorization of the working class of the individual(Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked)
+
+education = A categorization of the highest education level of the individual (Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th, Preschool)
+
+education_level = A numerical categorization of the level of education of the individual (correlates with education category)
+
+marital_status = A categorization of the marital_status of the individual (Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent, Married-AF-spouse)
+
+occupation = The occupation of the individual (	Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing, Transport-moving, Priv-house-serv, Protective-serv, Armed-Forces)
+
+relationship = The relationship status of the individual at the time of census (Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried)
+
+race = A categorization of the race of the individual (White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black)
+
+sex = A categorization of the sex of the individual (Female, Male)
+
+hours_per_week = The average number of hours the individual works per week
+
+native_country = The native country of the individual
+
+income_above_50k = A binary classification of whether the individual earns above $50,000 per year or not (1 = above $50,000; 0 = less than or equal to $50,000)

@@ -1,0 +1,50 @@
+LIST NUMBER 1
+
+I would like to understand why there is an increase in home prices each year. What factors influenced the rise in home prices? Is it because of the development that took place over the years in Flagstaff?
+
+LIST NUMBER 2
+
+Based on the descriptive analysis, three facts I have learned about home prices are:
+
+FACT 1: On average, the home price is $314,721.41.
+FACT 2: The minimum price to buy a home in Flagstaff was $154,946, which occurred in 1996.
+FACT 3: The maximum price to buy a home in Flagstaff was $706,769, observed in 2022.
+LIST NUMBER 3
+
+After grouping the median home prices for each year, we get the median home price for each year. Essentially, the median tells us that 50% of home prices are lower than the median, and 50% are higher.
+
+FACT 1: Since there is an increase in the median for each year, there is a steady overall increase in prices over the years.
+FACT 2: However, there was a decrease in prices between the years 2011 to 2013.
+
+LIST NUMBER 4
+
+FACT 1: On average, between the years 2010-2019, the home price was $329,266.50.
+FACT 2: The minimum home price between the years 2010-2019 was $250,085.
+FACT 3: The maximum home price between the years 2010-2019 was $420,788.
+FACT 4: The median of home prices for each year between 2010-2019 experienced a slight decrease and then an increase in prices.
+FACT 5: The median of home prices for each month between 2010-2019 showed a steady increase in prices.
+FACT 6: 75% of the houses have a home price of $372,034.50.
+
+LIST NUMBER 5
+
+Yes, I have produced the facts and information needed to understand the factors influencing the rise in home prices in Flagstaff, as identified in number 1.
+
+Key Insights Obtained:
+
+The increase in home prices each year is supported by the overall upward trend in median prices over the years, as indicated by the median home prices grouped by year.
+The sharp increase in median home prices in 2021-2022, reaching $537,475.5 in 2021 and $684,048.5 in 2022, suggests a period of rapid growth or increased demand in the real estate market.
+While there was a decrease in home prices between 2011 and 2013, the overall trend shows a steady increase.
+The information gathered from the dataset, such as average prices, minimum and maximum prices, and median trends, provides a comprehensive understanding of the dynamics in Flagstaff's real estate market.
+
+LIST NUMBER 6
+
+Summary:
+Through the analysis of Flagstaff home prices data, several key insights were obtained:
+
+Overall Upward Trend: The data reveals a consistent upward trend in median home prices over the years, indicating a general appreciation in the real estate market in Flagstaff.
+
+Significant Increase in 2021-2022: There was a notable spike in median home prices in 2021-2022, suggesting a period of rapid growth or increased demand in the real estate market during this timeframe.
+
+Steady Increase with Some Fluctuations: Despite a slight decrease in prices between 2011 and 2013, the overall trend shows a steady increase in home prices, emphasizing the resilience and growth of the real estate market in Flagstaff.
+
+Descriptive Statistics: Key descriptive statistics, such as average prices, minimum and maximum prices, and median trends, provide a comprehensive overview of the Flagstaff real estate market, offering valuable insights for potential homebuyers, sellers, and investors.
